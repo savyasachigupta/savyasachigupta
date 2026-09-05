@@ -96,13 +96,23 @@ I enjoy working across **cybersecurity, programming, machine learning, web devel
 
 # 🚀 Featured Projects
 
-### 🧩 Student Seating Allocator
+### 🔐 PhishInsulator
 
-A C-based project designed to automate student seating allocation.
+An AI-powered phishing detection system designed to analyze suspicious URLs and email content and identify potential phishing threats.
 
-**Tech:** `C` · `Algorithms` · `Data Structures`
+**Tech:** `Python` · `React` · `Machine Learning` · `Cybersecurity`
 
-[View Repository →](https://github.com/guptasavysachi/Student-Seating-Allocator-C)
+🔗 [View Repository →](https://github.com/savyasachigupta/PhishInsulator)
+
+---
+
+### 🧠 LeetCode Solutions
+
+A growing collection of solutions documenting my journey through Data Structures & Algorithms and problem solving.
+
+**Languages:** `Java` · `C++` · `Python`
+
+🔗 [View Repository →](https://github.com/savyasachigupta/leetcode-solutions)
 
 ---
 
@@ -112,17 +122,17 @@ A web-based platform for conducting and managing multiple-choice quizzes.
 
 **Tech:** `HTML` · `CSS` · `JavaScript`
 
-[View Repository →](https://github.com/guptasavysachi/Online-MCQ-Quiz-Platform)
+🔗 [View Repository →](https://github.com/savyasachigupta/online-mcq-quiz-platform)
 
 ---
 
-### 🧠 LeetCode Solutions
+### 🧩 Student Seating Allocator
 
-A growing collection of solutions documenting my journey through Data Structures & Algorithms.
+A C-based project designed to automate student seating allocation using algorithms, data structures, and file handling.
 
-**Language:** `Java`
+**Tech:** `C` · `Algorithms` · `Data Structures` · `File Handling`
 
-[View Repository →](https://github.com/guptasavysachi/LeetCode)
+🔗 [View Repository →](https://github.com/savyasachigupta/student-seating-allocator)
 
 ---
 
