@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Savyasachi Gupta
 
-### 🔐 Cybersecurity · 💻 Software Develment · 🤖 Machine Learning
+### 🔐 Cybersecurity · 💻 Software Development · 🤖 Machine Learning
 
 <p>
   <a href="https://github.com/guptasavysachi">
@@ -13,6 +13,9 @@
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ssg297631@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ssg297631%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -177,9 +180,11 @@ efficient approaches to algorithmic problems.
 
 ### 💻 LeetCode
 
-**Username:** `code-kht`
+**135+ Problems Solved** · Java · C++ · Python
 
-🔗 [View my LeetCode Profile](https://leetcode.com/u/code-kht/)
+`Arrays` · `Hashing` · `Binary Search` · `Dynamic Programming`
+
+🔗 [LeetCode Profile](https://leetcode.com/u/code-kht/)
 
 🔗 [View my LeetCode Solutions](https://github.com/guptasavysachi/LeetCode)
 
@@ -226,6 +231,9 @@ Programming
 If you're interested in **cybersecurity, software development, machine learning, or technology**, feel free to connect.
 
 <br>
+<a href="mailto:ssg297631@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ssg297631%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <a href="https://github.com/guptasavysachi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
