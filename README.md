@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Savyasachi Gupta
 
-### 🔐 Cybersecurity Student · 💻 Developer · 🤖 ML Enthusiast
+### 🔐 Cybersecurity · 💻 Software Develment · 🤖 Machine Learning
 
 <p>
   <a href="https://github.com/guptasavysachi">
