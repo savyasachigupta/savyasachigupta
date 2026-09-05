@@ -256,6 +256,3 @@ If you're interested in **cybersecurity, software development, machine learning,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=100&section=footer"/>
 
 </div>
-
-
-now this is my complete file, but i have changed the username from guptasavysachi to savyasachigupta
