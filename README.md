@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ssg297631@gmail.com">
+  <a href="mailto">
     <img src="https://img.shields.io/badge/Email-ssg297631%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
