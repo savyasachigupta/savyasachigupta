@@ -166,22 +166,22 @@ Currently building my foundation in cybersecurity and gradually turning what I l
 
 ## 🧩 Problem Solving
 
-```text
-DSA Journey
+I regularly practice **Data Structures & Algorithms** on LeetCode,
+focusing on strengthening problem-solving skills and understanding
+efficient approaches to algorithmic problems.
 
-Arrays          ███████░░░
-Strings         ██████░░░░
-Hashing         █████░░░░░
-Binary Search   ████░░░░░░
-Linked Lists    ████░░░░░░
-Trees           ██░░░░░░░░
-Graphs          ██░░░░░░░░
-Dynamic Prog.   ██░░░░░░░░
-```
+### 📚 Topics I'm Practicing
 
-> Progress bars represent areas I'm actively practicing—not fixed skill levels.
+`Arrays` · `Strings` · `Hashing` · `Binary Search` · `Linked Lists`
+· `Stacks & Queues` · `Trees` · `Graphs` · `Dynamic Programming`
 
----
+### 💻 LeetCode
+
+**Username:** `code-kht`
+
+🔗 [View my LeetCode Profile](https://leetcode.com/u/code-kht/)
+
+🔗 [View my LeetCode Solutions](https://github.com/guptasavysachi/LeetCode)
 
 ## 🎯 Current Mission
 
